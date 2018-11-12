@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'PF Encore Sans Pro-Thin';
+    src: url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.eot');
+    src: url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.woff2') format('woff2'),
+        url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.woff') format('woff'),
+        url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.ttf') format('truetype'),
+        url('../fonts/PF Encore Sans Pro-Thin/PFEncoreSansPro-Thin.svg#PFEncoreSansPro-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Encore Sans Pro-Bold';
+    src: url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.eot');
+    src: url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.woff2') format('woff2'),
+        url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.woff') format('woff'),
+        url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.ttf') format('truetype'),
+        url('../fonts/PF Encore Sans Pro-Bold/PFEncoreSansPro-Bold.svg#PFEncoreSansPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Encore Sans Pro-Medium';
+    src: url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.eot');
+    src: url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.woff2') format('woff2'),
+        url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.woff') format('woff'),
+        url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.ttf') format('truetype'),
+        url('../fonts/PF Encore Sans Pro-Medium/PFEncoreSansPro-Medium.svg#PFEncoreSansPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PF Encore Sans Pro-Light';
+    src: url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.eot');
+    src: url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.woff2') format('woff2'),
+        url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.woff') format('woff'),
+        url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.ttf') format('truetype'),
+        url('../fonts/PF Encore Sans Pro-Light/PFEncoreSansPro-Light.svg#PFEncoreSansPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
